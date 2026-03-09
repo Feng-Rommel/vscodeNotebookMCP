@@ -32,7 +32,7 @@ VS Code Notebooks
 ### 第一步：克隆项目
 
 ```bash
-git clone https://github.com/yourusername/vscode-notebook-mcp.git
+git clone https://github.com/Feng-Rommel/vscode-notebook-mcp.git
 cd vscode-notebook-mcp
 ```
 
